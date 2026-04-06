@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Experience"
 date: 2024-01-01
 ---
 
@@ -52,7 +52,7 @@ date: 2024-01-01
 
 ## Open Source
 
-### [AnyStatus](https://www.anystat.us)
+### AnyStatus
 
 An open-source project demonstrating a fully pluggable architecture. Selected for the [ThoughtWorks Technology Radar 2019](https://www.thoughtworks.com/radar). Used by thousands of developers and companies worldwide, including Bosch and Microsoft.
 

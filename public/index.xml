@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alon Amsalem</title>
+    <link>http://10.0.0.12:1313/</link>
+    <description>Recent content on Alon Amsalem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://10.0.0.12:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://10.0.0.12:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://10.0.0.12:1313/about/</guid>
+      <description>&lt;p&gt;Father, husband, occasional musician. Professional software engineer since 2003.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve worked across a wide range of domains — cloud architecture, IoT, healthcare, fintech, and open source. I enjoy solving complex problems, building reliable systems, and working with good teams.&lt;/p&gt;&#xA;&lt;p&gt;Currently a Software Architect at &lt;a href=&#34;https://codevalue.net&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodeValue&lt;/a&gt;, where I lead the architecture and development of a cloud-based IoT platform.&lt;/p&gt;&#xA;&lt;p&gt;I also created &lt;a href=&#34;https://www.anystat.us&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnyStatus&lt;/a&gt;, an open-source project that was selected for the &lt;a href=&#34;https://www.thoughtworks.com/radar&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ThoughtWorks Technology Radar 2019&lt;/a&gt; and is used by thousands of developers worldwide, including teams at Bosch and Microsoft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://10.0.0.12:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://10.0.0.12:1313/experience/</guid>
+      <description>&lt;h2 id=&#34;experience&#34;&gt;&#xA;  Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;software-architect--codevalue&#34;&gt;&#xA;  Software Architect — CodeValue&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#software-architect--codevalue&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Jun 2018 – Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Leading software architecture, design, and implementation of a cloud-based IoT solution for multiple products and projects.&lt;/li&gt;&#xA;&lt;li&gt;Supervised and supported a distributed team of 10 developers across different cities and countries.&lt;/li&gt;&#xA;&lt;li&gt;Built extensive integrations for a critical-asset security system, including external radar systems (ELTA).&lt;/li&gt;&#xA;&lt;li&gt;Designed and developed a desktop application for Rafael.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;software-engineer--allscripts&#34;&gt;&#xA;  Software Engineer — Allscripts&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#software-engineer--allscripts&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Jun 2016 – Jun 2018&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

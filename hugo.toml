@@ -30,11 +30,6 @@ theme = "hugo-coder"
     weight = 3
     url = "https://twitter.com/AlonAmsalem"
 
-  [[params.social]]
-    name = "Email"
-    icon = "fa-solid fa-envelope fa-2x"
-    weight = 4
-    url = "mailto:alon.amsalem@gmail.com"
 
 [[menus.main]]
   name = "Blog"
@@ -47,8 +42,8 @@ theme = "hugo-coder"
   weight = 2
 
 [[menus.main]]
-  name = "Resume"
-  url = "/resume/"
+  name = "Experience"
+  url = "/experience/"
   weight = 3
 
 [taxonomies]
