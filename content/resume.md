@@ -13,12 +13,12 @@ date: 2024-01-01
 - Built extensive integrations for a critical-asset security system, including external radar systems (ELTA).
 - Designed and developed a desktop application for Rafael.
 
-### Senior Software Engineer — Allscripts
+### Software Engineer — Allscripts
 *Jun 2016 – Jun 2018*
 
 - Developed a population health analysis system, including backend and frontend.
 
-### Senior Software Engineer — Bank Leumi
+### Software Engineer — Bank Leumi
 *Dec 2014 – Jun 2016*
 
 - Developed internal banking services and integrations.
@@ -30,7 +30,7 @@ date: 2024-01-01
 - Designed and developed an automated CI/CD system for thousands of websites using Azure DevOps.
 - Guided software lifecycle management across multiple teams and shared code libraries.
 
-### Senior Software Engineer — iFOREX
+### Software Engineer — iFOREX
 *Jan 2008 – Dec 2011*
 
 - Assisted in the architecture, design, and development of a replacement system for a legacy financial trading platform using SOA tools (WCF, Windows Services, ASP.NET, RabbitMQ). System design guided by Juval Löwy.
