@@ -3,12 +3,17 @@ title: "Experience"
 date: 2024-01-01
 ---
 
-## Experience
+### Software Engineer — Datadog
+*Oct 2022 – Present*
+
+- IDE Integration team — building developer tools that bring Datadog observability into the IDE.
+- Developed the [Visual Studio extension](https://marketplace.visualstudio.com/items?itemName=Datadog.VisualStudio) ([docs](https://docs.datadoghq.com/integrations/visual-studio/)) and VS Code extension.
+- Worked on backend services supporting IDE integrations.
 
 ### Software Architect — CodeValue
-*Jun 2018 – Present*
+*Jun 2018 – Oct 2022*
 
-- Leading software architecture, design, and implementation of a cloud-based IoT solution for multiple products and projects.
+- Led software architecture, design, and implementation of a cloud-based IoT solution across multiple products and projects.
 - Supervised and supported a distributed team of 10 developers across different cities and countries.
 - Built extensive integrations for a critical-asset security system, including external radar systems (ELTA).
 - Designed and developed a desktop application for Rafael.
@@ -33,7 +38,7 @@ date: 2024-01-01
 ### Software Engineer — iFOREX
 *Jan 2008 – Dec 2011*
 
-- Assisted in the architecture, design, and development of a replacement system for a legacy financial trading platform using SOA tools (WCF, Windows Services, ASP.NET, RabbitMQ). System design guided by Juval Löwy.
+- Assisted in the architecture, design, and development of a replacement system for a legacy financial trading platform using SOA tools (WCF, Windows Services, ASP.NET, RabbitMQ).
 
 ---
 
@@ -53,6 +58,7 @@ date: 2024-01-01
 ## Open Source
 
 ### AnyStatus
+*Jan 2017 – Oct 2022*
 
 An open-source project demonstrating a fully pluggable architecture. Selected for the [ThoughtWorks Technology Radar 2019](https://www.thoughtworks.com/radar). Used by thousands of developers and companies worldwide, including Bosch and Microsoft.
 
