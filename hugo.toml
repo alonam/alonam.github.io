@@ -1,13 +1,12 @@
 baseURL = "https://alon.am/"
 languageCode = "en-us"
-title = "Alon Am"
+title = "Alon Amsalem"
 theme = "hugo-coder"
 
 [params]
-  author = "Alon Am"
-  description = "Software Engineer"
-  keywords = "software,engineer,blog"
-  avatarURL = "images/avatar.jpg"
+  author = "Alon Amsalem"
+  description = "Software Architect & Engineer"
+  keywords = "software,architecture,cloud,iot,engineer"
   dateFormat = "January 2, 2006"
   since = 2024
   colorScheme = "auto"
@@ -18,6 +17,39 @@ theme = "hugo-coder"
     icon = "fa-brands fa-github fa-2x"
     weight = 1
     url = "https://github.com/alonam"
+
+  [[params.social]]
+    name = "LinkedIn"
+    icon = "fa-brands fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/alonam/"
+
+  [[params.social]]
+    name = "Twitter"
+    icon = "fa-brands fa-x-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/AlonAmsalem"
+
+  [[params.social]]
+    name = "Email"
+    icon = "fa-solid fa-envelope fa-2x"
+    weight = 4
+    url = "mailto:alon.amsalem@gmail.com"
+
+[[menus.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menus.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 3
 
 [taxonomies]
   category = "categories"
