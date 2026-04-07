@@ -46,6 +46,11 @@ theme = "hugo-coder"
   url = "/experience/"
   weight = 3
 
+[[menus.main]]
+  name = "Toolkit"
+  url = "/toolkit/"
+  weight = 4
+
 [taxonomies]
   category = "categories"
   series = "series"
